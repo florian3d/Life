@@ -5,5 +5,5 @@ P:  PAUSE<br/>
 S:  STEP<br/>
 Q:  EXIT<br/>
 +/-:  incease, decrease population
-<br/><br/>
-to be continued...
+<br/>
+![image](https://user-images.githubusercontent.com/29359337/158018263-043d4c22-ca92-4e73-8b1b-989bef111acd.png)
